@@ -1,0 +1,13 @@
+GIT : Open source yang digunakan sebagai tracking perubahan yang dilakukan oleh developer agar diketahui developer lain
+Repository : Penyimpanan file directory yang bisa diakses oleh developer lain
+git --version : mengetahui versi git yang digunakan
+git config --global user.name dan git config --global user.email : menggunakan informasi data untuk mengetahui apa yang dilakukan pada sistem
+git init : inisialisasi repository git baru
+mkdir : membuat direktori baru
+cd : masuk ke dalam direktory
+git add : menambahkan file atau direktori ke indeks git
+git commit : commit perubahan ke repository git
+git remote : menyimpan repository git ke dalam server
+git push : mengupload perubahan ke repository yang terhubung
+Github : layanan hosting atau management project
+Gitlab : layanan akses remote direktor 
